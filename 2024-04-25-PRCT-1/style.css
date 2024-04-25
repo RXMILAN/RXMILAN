@@ -1,0 +1,47 @@
+.head{
+    justify-content: space-between;
+    background-color: gray;
+    display: flex;
+    
+}
+ul{
+    list-style: none;
+   display:flex;
+   padding:5px;
+   margin: 10px;
+}
+li{
+    text-decoration: none;
+}
+A{
+    text-decoration: none;
+    justify-content: space-around;
+}
+.img1{
+    height: 400px;
+    width: 1200px;
+}
+.imgtxt1{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+td{
+    width: 15;
+}
+.purchase{
+    background-color: black;
+}
+.more{
+    background-color: black;
+    text-align: center;
+}
+option{
+    bottom: 30%;
+}
