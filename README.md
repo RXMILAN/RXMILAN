@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasmilan</h1>
-<h3 align="center">I’m interested in technology, coding, and innovation.</h3>
+<h3 align="center">A passionate learner exploring the realms of technology, coding, and innovation to create impactful solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasmilan&label=Profile%20views&color=0e75b6&style=flat" alt="rasmilan" /> </p>
 - 🌱 I’m currently studying at Unicomtic.<br>
