@@ -16,17 +16,20 @@
 
 ---
 
+## 📝 Blog & Articles
 
-## 📊 GitHub Stats
+I regularly write about programming, web development, and my learning experiences. Here are a few articles:
 
-### **GitHub Stats**:
+- [How I Learned Full Stack Development](https://dev.to/pathmarasan-piragash/learning-full-stack-development)
+- [5 Tips for Aspiring Software Developers](https://dev.to/pathmarasan-piragash/5-tips-for-aspiring-software-developers)
+- [Building Your First REST API in Node.js](https://dev.to/pathmarasan-piragash/building-rest-api-nodejs)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pppiragash&show_icons=true&locale=en&theme=radical" alt="pppiragash" />
-</p>
+---
 
-### **GitHub Streak**:
+## ⚡ Fun Facts
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pppiragash&theme=radical" alt="pppiragash" />
-</p>
+- I have a huge collection of tech books 📚
+- I love to code and binge-watch movies at the same time 🍿💻
+- My favorite programming language is JavaScript (but C# comes close) 🚀
+
+
